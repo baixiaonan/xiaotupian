@@ -1,0 +1,91 @@
+<img src="../../static/uploads/content_1.png"/>
+
+
+<swiper indicator-dots indicator-color="rgba(250,250,250,0.3)" indicator-active-color="#fff" autoplay interval="3000" circular>
+    <swiper-item>
+        <image src="/static/uploads/slide_1.jpg"></image>
+    </swiper-item>
+     <swiper-item>
+        <image src="/static/uploads/slide_2.jpg"></image>
+    </swiper-item>
+     <swiper-item>
+        <image src="/static/uploads/slide_3.jpg"></image>
+    </swiper-item>
+     <swiper-item>
+        <image src="/static/uploads/slide_4.jpg"></image>
+    </swiper-item>
+     <swiper-item>
+        <image src="/static/uploads/slide_5.jpg"></image>
+    </swiper-item>
+
+</swiper>
+
+<view class="title">乐园活动</view>
+<navigator>
+   <image src="/static/uploads/item_1.png"></image>
+</navigator>
+<view class="info">
+  <view class="words">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+  <view class="free">免费</view>
+  <view class="hot">
+      <text class="number">200人已报名</text>
+      <text>本周六开始</text>
+  </view>
+
+
+</view>
+<navigator>
+   <image src="/static/uploads/item_2.png"></image>
+</navigator>
+<view class="info">
+  <view class="words">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+  <view class="free">免费</view>
+  <view class="hot">
+      <text class="number">200人已报名</text>
+      <text>本周六开始</text>
+  </view>
+
+
+</view>
+
+<navigator>
+   <image src="/static/uploads/item_3.png"></image>
+</navigator>
+<view class="info">
+  <view class="words">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+  <view class="free">免费</view>
+  <view class="hot">
+      <text class="number">200人已报名</text>
+      <text>本周六开始</text>
+  </view>
+
+
+</view>
+
+<navigator>
+   <image src="/static/uploads/item_4.png"></image>
+</navigator>
+<view class="info">
+  <view class="words">疯狂的红包 不一样的撕名牌 大型家庭亲子户外活动</view>
+  <view class="free">免费</view>
+  <view class="hot">
+      <text class="number">200人已报名</text>
+      <text>本周六开始</text>
+  </view>
+
+
+</view>
+
+
+
+
+
+<button>按钮</button>
+
+<image src="../../static/uploads/content_1.png"></image>
+<!-- 相当于网页中的a标签 -->
+<navigator url="">我是a标签</navigator>
+
+<view class="box">我是块级盒子</view>
+<text>我是行内元素</text>
+

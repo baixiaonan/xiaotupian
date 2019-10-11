@@ -1,0 +1,54 @@
+page{
+  background-color: #F0F0F0 ;
+}
+
+.box {
+    width:200px;
+   height: 200px;
+   background:pink;
+}
+swiper {
+  height: 320rpx;
+  width: 750rpx;
+}
+swiper image{
+  width: 750rpx;
+}
+.title{
+  font-size: 28rpx;
+  color: #3C3C3C ;
+  line-height: 1;
+  padding: 30rpx 10rpx;
+}
+navigator image {
+  height: 320rpx;
+  width: 750rpx;
+  vertical-align: middle;
+}
+.info {
+  position: relative;
+  height:186rpx;
+  background-color: #fff;
+  margin-bottom: 16rpx;
+}
+.info .words {
+  color: #3C3C3C;
+  font-size: 30rpx;
+  padding: 30rpx 16rpx;
+  width: 590rpx;
+}
+.info .free{
+  font-size: 30rpx;
+  color: #FE6249;
+  position: absolute;
+  top: 32rpx;
+  right: 30rpx;
+}
+.info .hot{
+  color: #B4B4B4;
+  font-size: 22rpx;
+ 
+}
+.hot .number{
+ padding: 0 26rpx 0 30rpx;
+}
